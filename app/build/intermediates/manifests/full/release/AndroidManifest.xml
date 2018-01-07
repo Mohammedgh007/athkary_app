@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.creative.azkary"
+    android:versionCode="3"
+    android:versionName="2.1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="14" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/athkary_icon"
+        android:label="اذكاري حياتي"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="me.creative.azkary.Sub"
+            android:label="أذكار الصباح" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.creative.azkary.Muss"
+            android:label="أذكار المساء" >
+            <intent-filter>
+                <action android:name="android.intent.action.f" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.creative.azkary.Tra"
+            android:label="أدعية السفر" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.creative.azkary.Ats"
+            android:label="أذكارالاستيقاظ" >
+            <intent-filter>
+                <action android:name="android.intent.action.l" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.creative.azkary.Sle"
+            android:label="أذكار النوم" >
+            <intent-filter>
+                <action android:name="android.intent.action.v" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">athkary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub">sub</string>
+    <string name="title_activity_muss">Muss</string>
+    <string name="title_activity_tra">Tra</string>
+    <string name="title_activity_ats">Ats</string>
+    <string name="title_activity_sle">Sle</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tra.xml",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\layout\\activity_tra.xml"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_muss.xml",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\layout\\activity_muss.xml"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub.xml",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\layout\\sub.xml"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sle.xml",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\layout\\activity_sle.xml"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ats.xml",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\layout\\activity_ats.xml"
+    }
+]

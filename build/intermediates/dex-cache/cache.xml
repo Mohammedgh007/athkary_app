@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\ProgramFiles\sdkandroid\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1_4801236cbc5a21bb682c71bfb3acac3530a451b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed\.android\build-cache\a72f434f87f20f41cecc253c408b3623bebc7b0e\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1_40989be96400d5a15802da50f712967898cd2ee8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohammed\.android\build-cache\a72f434f87f20f41cecc253c408b3623bebc7b0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28e8499ac2349cf35c563df09842c52acda9517d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProgramFiles\sdkandroid\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_4801236cbc5a21bb682c71bfb3acac3530a451b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed\.android\build-cache\a72f434f87f20f41cecc253c408b3623bebc7b0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\pre-dexed\release\classes_28e8499ac2349cf35c563df09842c52acda9517d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohammed\.android\build-cache\a72f434f87f20f41cecc253c408b3623bebc7b0e\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_40989be96400d5a15802da50f712967898cd2ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohammed\.android\build-cache\b385591d17232b300ff7d6dd91e57d5a911cf37b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bb8226552b083ac47c7d0e2c1302a9cb9091733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\athkary-file\athkary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_030d7dcaf15df95bc58f8339e5b0fbb33d4156d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\athkary-file\athkary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebc45b90b8f8166fbac384c9c3b21c7413a946f7">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e2a580f801b5b63156d35730397b615832321fb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\ProgramFiles\sdkandroid\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_4801236cbc5a21bb682c71bfb3acac3530a451b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mohammed\.android\build-cache\b385591d17232b300ff7d6dd91e57d5a911cf37b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\pre-dexed\release\classes_1bb8226552b083ac47c7d0e2c1302a9cb9091733.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ProgramFiles\sdkandroid\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f1876e59b18a72cbc13ea55422463222873727fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ProgramFiles\sdkandroid\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\athkary-file\athkary\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_f1876e59b18a72cbc13ea55422463222873727fc.jar" />
+    </item>
+
+</items>

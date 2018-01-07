@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\myazka.png",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\drawable-hdpi\\myazka.png"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\athkary_icon.png",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\drawable-hdpi\\athkary_icon.png"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\athkary_background.png",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\drawable-hdpi\\athkary_background.png"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\sculp.png",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\drawable-hdpi\\sculp.png"
+    },
+    {
+        "merged": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Sat Apr 15 14:45:28 MST 2017
+base.0=C\:\\athkary-file\\athkary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_030d7dcaf15df95bc58f8339e5b0fbb33d4156d6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\athkary-file\\athkary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2a580f801b5b63156d35730397b615832321fb1\\classes.dex
+base.1=C\:\\athkary-file\\athkary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e2a580f801b5b63156d35730397b615832321fb1
+file.0=C\:\\athkary-file\\athkary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_030d7dcaf15df95bc58f8339e5b0fbb33d4156d6\\classes.dex
