@@ -1,0 +1,4 @@
+#Sat Aug 04 15:34:26 MST 2018
+base.0=C\:\\athkary-file\\athkary\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

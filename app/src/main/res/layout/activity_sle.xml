@@ -5,76 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/athkary_background"
+    android:background="@android:color/background_light"
     tools:context="mine.ceative.athkary.me.creative.azkary.Sle">
-
-    <TextView
-        android:id="@+id/textView106"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.05"
-        android:text="" />
-
-    <HorizontalScrollView
-        android:layout_width="fill_parent"
-        android:layout_height="50dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp"
-        android:layout_weight="0.01">
-
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:orientation="horizontal" >
-
-            <Button
-                android:id="@+id/sle_button_sle"
-                android:layout_width="120dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:background="@drawable/boldbutton_athkartype"
-                android:text="أذكار النوم" />
-
-            <Button
-                android:id="@+id/sle_button_sub"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="اذكار الصباح" />
-
-            <Button
-                android:id="@+id/sle_button_mus"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="اذكار المساء" />
-
-            <Button
-                android:id="@+id/sle_button_afs"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="أذكار الاستيقاظ" />
-
-            <Button
-                android:id="@+id/sle_button_tra"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="ادعية السفر" />
-        </LinearLayout>
-    </HorizontalScrollView>
-
-    <TextView
-        android:id="@+id/textView111"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.05"
-        android:text="" />
 
     <ScrollView
         android:layout_width="fill_parent"
@@ -96,171 +28,315 @@
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="يجمع كفيه ثم ينفث فيهما فيقرأ :بسم الله الرحمن الرحيم{ قُلْ هُوَ اللَّهُ أَحَدٌ*اللَّهُ الصَّمَدُ*لَمْ يَلِدْ وَلَمْ يُولَدْ*وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ} بسم الله الرحمن الرحيم{قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ*مِن شَرِّ مَا خَلَقَ*وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ*وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ * وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ } بسم الله الرحمن الرحيم{ قُلْ أَعُوذُ بِرَبِّ النَّاسِ * مَلِكِ النَّاسِ * إِلَهِ النَّاسِ *مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ * الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ * مِنَ الْجِنَّةِ وَالنَّاسِ }ثم يمسح بهما ما استطاع من جسده يبدأ بهما على رأسه ووجهه وما أقبل من جسده ( يفعل ذلك ثلاث مرات ) . " />
+
             <TextView
                 android:id="@+id/textView1sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView2sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="{ اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ } ." />
+
             <TextView
                 android:id="@+id/textView2sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView3sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="{آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ كُلٌّ آمَنَ بِاللّهِ وَمَلآئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لاَ نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ وَقَالُواْ سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ * لاَ يُكَلِّفُ اللّهُ نَفْساً إِلاَّ وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا إِصْراً كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنتَ مَوْلاَنَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ}." />
+
             <TextView
                 android:id="@+id/textView3sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView4sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="باسمك  ربي وضعت جنبي وبك أرفعه إن أمسكت نفسي فارحمها، وإن أرسلتها فاحفظها بما تحفظ به عبادك الصالحين ." />
+
             <TextView
                 android:id="@+id/textView4sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView5sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="اللهم خَلَقْتَ نفسي وأنت توفَّاها لك مماتها ومَحْياها، إن أحييتها فاحفظها وإن أمتها فاغفر لها، اللهم إني أسألك العافية ." />
+
             <TextView
                 android:id="@+id/textView5sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView6sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="اللهم قني عذابك يوم تبعث عبادك ( ثلاث مرات ) ." />
+
             <TextView
                 android:id="@+id/textView6sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView7sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="باسمِكَ اللهم أموت أحيا." />
+
             <TextView
                 android:id="@+id/textView7sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView8sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="سبحان الله ( ثلاثاً وثلاثين ) والحمد لله ( ثلاثاً وثلاثين )والله أكبر(أربعاً وثلاثين ) ." />
+
             <TextView
                 android:id="@+id/textView8sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView9sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="اللهم ربَّ السموات السبع ،ورب العرش العظيم ،ربنا ورب كل شيء، فالق الحب والنوى، ومُنزل التوراة والإنجيل والفرقان، أعوذ بك من شر كل شيء أنت آخذٌ بناصيته ،اللهم أنت الأول فليس قبلك شيء ، وأنت الآخر فليس بعدك شيء، وأنت الظاهر فليس فوقك شيء، وأنت الباطن فليس دونك شيء، اقض عنا الدَّيْنَ واغننا من الفقر." />
+
             <TextView
                 android:id="@+id/textView9sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView10sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="الحمد لله الذي أطعمنا وسقانا وكفانا وآوانا فكم ممن لا كافي له ولا مؤوي." />
+
             <TextView
                 android:id="@+id/textView10sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView11sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="اللهم عالم الغيب والشهادة، فاطر السموات والأرض، رب كل شيء ومليكه أشهد أن لا إله إلا أنت أعوذ بك من شر نفسي، ومن شر الشيطان وشركه وأن أقترف على نفسي سوءًا أو أجرَّه إلى مسلم ." />
+
             <TextView
                 android:id="@+id/textView11sles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView12sle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:textColor="#A04000"
+                android:textStyle="bold"
                 android:text="اللهم أسلمت نفسي إليك، وفوضت أمري إليك وألجأت ظهري إليك رهبةً ورغبةً إليك، لا ملجأ ولا منجا منك إلا إليك، آمنت بكتابك الذي أنزلت وبنبيك الذي أرسلت ." />
 
         </LinearLayout>
     </ScrollView>
 
-    <TextView
-        android:id="@+id/textView121"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.1"
-        android:text="" />
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"
+        android:layout_weight="0.01">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/sle_button_sle"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:background="@drawable/boldbutton_athkartype"
+                android:text="أذكار النوم" />
+
+            <Button
+                android:id="@+id/sle_button_sub"
+                android:layout_width="120dp"
+                android:background="@drawable/button_athkartype"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="اذكار الصباح" />
+
+            <Button
+                android:id="@+id/sle_button_mus"
+                android:layout_width="120dp"
+                android:background="@drawable/button_athkartype"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="اذكار المساء" />
+
+            <Button
+                android:id="@+id/sle_button_afs"
+                android:layout_width="120dp"
+                android:background="@drawable/button_athkartype"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="أذكار الاستيقاظ" />
+
+            <Button
+                android:id="@+id/sle_button_tra"
+                android:layout_width="120dp"
+                android:background="@drawable/button_athkartype"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:text="ادعية السفر" />
+        </LinearLayout>
+    </HorizontalScrollView>
 
 </LinearLayout>

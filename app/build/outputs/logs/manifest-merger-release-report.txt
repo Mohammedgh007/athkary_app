@@ -1,6 +1,14 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\91f59274e6cd2d13e16788fb88a89028\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89e089e4731e78408a7bc376b846553d\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
 	package
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml
@@ -9,16 +17,22 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:1-61:12
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml
 		INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml
 		INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.android\build-cache\a72f434f87f20f41cecc253c408b3623bebc7b0e\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.android\build-cache\b385591d17232b300ff7d6dd91e57d5a911cf37b\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\91f59274e6cd2d13e16788fb88a89028\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\91f59274e6cd2d13e16788fb88a89028\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89e089e4731e78408a7bc376b846553d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89e089e4731e78408a7bc376b846553d\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml
@@ -37,14 +51,16 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:12:5-80
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:12:22-77
 application
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:14:5-59:19
-MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.android\build-cache\a72f434f87f20f41cecc253c408b3623bebc7b0e\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.android\build-cache\b385591d17232b300ff7d6dd91e57d5a911cf37b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\91f59274e6cd2d13e16788fb88a89028\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\91f59274e6cd2d13e16788fb88a89028\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89e089e4731e78408a7bc376b846553d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mohammed\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\89e089e4731e78408a7bc376b846553d\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:17:9-37
-	android:allowBackup
-		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:16:9-46
+	android:allowBackup
+		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:15:9-35
 	android:theme
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:18:9-40
 activity#me.creative.azkary.Sub
@@ -53,7 +69,7 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:19:9-26:20
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:21:13-41
 	android:name
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:20:13-50
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:23:17-69
@@ -69,7 +85,7 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:27:9-34:20
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:29:13-41
 	android:name
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:28:13-51
-intent-filter#android.intent.action.f+android.intent.category.DEFAULT
+intent-filter#action:name:android.intent.action.f+category:name:android.intent.category.DEFAULT
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.f
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:31:17-66
@@ -85,7 +101,7 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:35:9-42:20
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:37:13-40
 	android:name
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:36:13-50
-intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:38:13-41:29
 activity#me.creative.azkary.Ats
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:43:9-50:20
@@ -93,7 +109,7 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:43:9-50:20
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:45:13-43
 	android:name
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:44:13-50
-intent-filter#android.intent.action.l+android.intent.category.DEFAULT
+intent-filter#action:name:android.intent.action.l+category:name:android.intent.category.DEFAULT
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:46:13-49:29
 action#android.intent.action.l
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:47:17-66
@@ -105,7 +121,7 @@ ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:51:9-58:20
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:53:13-40
 	android:name
 		ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:52:13-50
-intent-filter#android.intent.action.v+android.intent.category.DEFAULT
+intent-filter#action:name:android.intent.action.v+category:name:android.intent.category.DEFAULT
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:54:13-57:29
 action#android.intent.action.v
 ADDED from C:\athkary-file\athkary\app\src\main\AndroidManifest.xml:55:17-66

@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\athkary-file\\athkary\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "96,97",
+                        "startColumns": "4,4",
+                        "startOffsets": "9438,9496",
+                        "endColumns": "57,55",
+                        "endOffsets": "9491,9547"
+                    }
+                },
+                {
+                    "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4,9,7,10,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "159,59,105,371,265,423,213,319",
+                        "endColumns": "52,44,52,50,52,50,50,50",
+                        "endOffsets": "207,99,153,417,313,469,259,365"
+                    },
+                    "to": {
+                        "startLines": "98,99,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "9552,9605,9650,9703,9754,9807,9858,9909",
+                        "endColumns": "52,44,52,50,52,50,50,50",
+                        "endOffsets": "9600,9645,9698,9749,9802,9853,9904,9955"
+                    }
+                },
+                {
+                    "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "49",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "91",
+                        "startColumns": "4",
+                        "startOffsets": "4270",
+                        "endColumns": "49",
+                        "endOffsets": "4315"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mohammed\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\89e089e4731e78408a7bc376b846553d\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,177,310,378,507,633,700,823,948,1015,1080,1145,1285,1351,1417,1484,1694,1763,1829,1954,2080,2147,2273,2400,2525,2652,2717,2843,2966,3031,3239,3306,3445,3510,3575,3637,3699,3761,3820,3880,3941,4002,4061",
+                        "endLines": "2,3,6,7,10,13,14,17,20,21,22,23,27,28,29,30,35,36,37,40,43,44,47,50,53,56,57,60,63,64,69,70,74,75,76,77,78,79,80,81,82,83,84,90",
+                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "102,172,305,373,502,628,695,818,943,1010,1075,1140,1280,1346,1412,1479,1689,1758,1824,1949,2075,2142,2268,2395,2520,2647,2712,2838,2961,3026,3234,3301,3440,3505,3570,3632,3694,3756,3815,3875,3936,3997,4056,4265"
+                    }
+                },
+                {
+                    "source": "C:\\athkary-file\\athkary\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,27,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "192,525,1135,690",
+                        "endLines": "12,17,29,25",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "484,682,1296,1127"
+                    },
+                    "to": {
+                        "startLines": "106,113,116,119",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "9960,10251,10411,10575",
+                        "endLines": "112,115,118,125",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "10246,10406,10570,11006"
+                    }
+                }
+            ]
+        }
+    ]
+}

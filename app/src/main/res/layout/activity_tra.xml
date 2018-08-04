@@ -3,93 +3,24 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
     android:layout_height="match_parent"
-    android:background="@drawable/athkary_background"
+    android:background="@android:color/background_light"
+    android:orientation="vertical"
     tools:context="mine.ceative.athkary.me.creative.azkary.Tra">
-
-    <TextView
-        android:id="@+id/textView1078"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.05"
-        android:text="" />
-
-    <HorizontalScrollView
-        android:layout_width="fill_parent"
-        android:layout_height="50dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp"
-        android:layout_weight="0.01">
-
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:orientation="horizontal" >
-
-            <Button
-                android:id="@+id/tra_button_tra"
-                android:layout_width="120dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:background="@drawable/boldbutton_athkartype"
-                android:text="ادعية السفر" />
-
-            <Button
-                android:id="@+id/tra_button_sub"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="اذكار الصباح" />
-
-            <Button
-                android:id="@+id/tra_button_mus"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="اذكار المساء" />
-
-            <Button
-                android:id="@+id/tra_button_afs"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="أذكار الاستيقاظ" />
-
-            <Button
-                android:id="@+id/tra_button_sle"
-                android:layout_width="120dp"
-                android:background="@drawable/button_athkartype"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="أذكار النوم" />
-
-        </LinearLayout>
-    </HorizontalScrollView>
-
-    <TextView
-        android:id="@+id/textView110"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.05"
-        android:text="" />
 
     <ScrollView
         android:layout_width="fill_parent"
         android:layout_height="394dp"
-        android:layout_marginRight="20dp"
         android:layout_marginLeft="20dp"
-        tools:layout_editor_absoluteY="106dp"
+        android:layout_marginRight="20dp"
+        android:layout_weight="0.79"
         tools:layout_editor_absoluteX="153dp"
-        android:layout_weight="0.79">
+        tools:layout_editor_absoluteY="106dp">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <TextView
                 android:id="@+id/textView1tra"
@@ -97,62 +28,143 @@
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
-                android:text="الله أكبر، الله أكبر، الله أكبر،{سُبْحانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ}  اللهم إنا نسألُكَ في سفرنا هذا البرَّ والتقوى، ومن العمل ما ترضى، اللهم هون علينا سفرنا هذا واطو عنا بعده، اللهم أنت الصاحب في السفر، والخليفة في الأهل، اللهم إني أعوذ بك من وعْثاءِ السفر، وكآبة المنظر وسوء المنقلب في المال والأهل وإذا رجع قالهن وزاد فيهن آيبون، تائبون، عابدون، لربنا حامدون ." />
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:text="الله أكبر، الله أكبر، الله أكبر،{سُبْحانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ}  اللهم إنا نسألُكَ في سفرنا هذا البرَّ والتقوى، ومن العمل ما ترضى، اللهم هون علينا سفرنا هذا واطو عنا بعده، اللهم أنت الصاحب في السفر، والخليفة في الأهل، اللهم إني أعوذ بك من وعْثاءِ السفر، وكآبة المنظر وسوء المنقلب في المال والأهل وإذا رجع قالهن وزاد فيهن آيبون، تائبون، عابدون، لربنا حامدون ."
+                android:textSize="18sp"
+                android:textColor="#A04000"
+                android:textStyle="bold"/>
+
             <TextView
                 android:id="@+id/textView1tras"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView2tra"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
-                android:text="أستودعُكَ الله الذي لا تضيع ودائعه (تقال للمقيم من المسافر ) ." />
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:text="أستودعُكَ الله الذي لا تضيع ودائعه (تقال للمقيم من المسافر ) ."
+                android:textSize="18sp"
+                android:textColor="#A04000"
+                android:textStyle="bold"/>
+
             <TextView
                 android:id="@+id/textView2tras"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView3tra"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
-                android:text="أستودع الله دينك وأمانتك ،وخواتيم عملك (تقال للمسافر من المقيم) ." />
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:text="أستودع الله دينك وأمانتك ،وخواتيم عملك (تقال للمسافر من المقيم) ."
+                android:textSize="18sp"
+                android:textColor="#A04000"
+                android:textStyle="bold"/>
+
             <TextView
                 android:id="@+id/textView3tras"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/sculp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="" />
+
             <TextView
                 android:id="@+id/textView4tra"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#ffffff"
                 android:gravity="right"
-                android:textSize="20sp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
                 android:text="زوَّدك الله التقوى، وغفر ذْنبك ويسَّر لك الخير حيث ما كنت (تقال للمسافر من المقيم
 ) .
-" />
+"
+                android:textSize="18sp"
+                android:textColor="#A04000"
+                android:textStyle="bold"/>
 
 
         </LinearLayout>
     </ScrollView>
 
-    <TextView
-        android:id="@+id/textView120"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.1"
-        android:text="" />
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_weight="0.01"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/tra_button_tra"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:background="@drawable/boldbutton_athkartype"
+                android:text="ادعية السفر" />
+
+            <Button
+                android:id="@+id/tra_button_sub"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:background="@drawable/button_athkartype"
+                android:text="اذكار الصباح" />
+
+            <Button
+                android:id="@+id/tra_button_mus"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:background="@drawable/button_athkartype"
+                android:text="اذكار المساء" />
+
+            <Button
+                android:id="@+id/tra_button_afs"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:background="@drawable/button_athkartype"
+                android:text="أذكار الاستيقاظ" />
+
+            <Button
+                android:id="@+id/tra_button_sle"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:background="@drawable/button_athkartype"
+                android:text="أذكار النوم" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
 
 </LinearLayout>

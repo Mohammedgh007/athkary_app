@@ -493,140 +493,125 @@ public final class R {
     public static final int sub_button_sle=0x7f05001a;
     public static final int sub_button_sub=0x7f05001b;
     public static final int sub_button_tra=0x7f05001c;
-    public static final int textView100=0x7f05001d;
-    public static final int textView101=0x7f05001e;
-    public static final int textView102=0x7f05001f;
-    public static final int textView105=0x7f050020;
-    public static final int textView106=0x7f050021;
-    public static final int textView1078=0x7f050022;
-    public static final int textView10mus=0x7f050023;
-    public static final int textView10muss=0x7f050024;
-    public static final int textView10sle=0x7f050025;
-    public static final int textView10sles=0x7f050026;
-    public static final int textView10sub=0x7f050027;
-    public static final int textView10subs=0x7f050028;
-    public static final int textView110=0x7f050029;
-    public static final int textView111=0x7f05002a;
-    public static final int textView112=0x7f05002b;
-    public static final int textView11mus=0x7f05002c;
-    public static final int textView11muss=0x7f05002d;
-    public static final int textView11sle=0x7f05002e;
-    public static final int textView11sles=0x7f05002f;
-    public static final int textView11sub=0x7f050030;
-    public static final int textView11subs=0x7f050031;
-    public static final int textView120=0x7f050032;
-    public static final int textView121=0x7f050033;
-    public static final int textView122=0x7f050034;
-    public static final int textView12mus=0x7f050035;
-    public static final int textView12muss=0x7f050036;
-    public static final int textView12sle=0x7f050037;
-    public static final int textView12sub=0x7f050038;
-    public static final int textView12subs=0x7f050039;
-    public static final int textView13mus=0x7f05003a;
-    public static final int textView13muss=0x7f05003b;
-    public static final int textView13sub=0x7f05003c;
-    public static final int textView13subs=0x7f05003d;
-    public static final int textView14mus=0x7f05003e;
-    public static final int textView14muss=0x7f05003f;
-    public static final int textView14sub=0x7f050040;
-    public static final int textView14subs=0x7f050041;
-    public static final int textView15mus=0x7f050042;
-    public static final int textView15muss=0x7f050043;
-    public static final int textView15sub=0x7f050044;
-    public static final int textView15subs=0x7f050045;
-    public static final int textView16mus=0x7f050046;
-    public static final int textView16muss=0x7f050047;
-    public static final int textView16sub=0x7f050048;
-    public static final int textView16subs=0x7f050049;
-    public static final int textView17mus=0x7f05004a;
-    public static final int textView17muss=0x7f05004b;
-    public static final int textView17sub=0x7f05004c;
-    public static final int textView17subs=0x7f05004d;
-    public static final int textView18mus=0x7f05004e;
-    public static final int textView18muss=0x7f05004f;
-    public static final int textView18sub=0x7f050050;
-    public static final int textView18subs=0x7f050051;
-    public static final int textView19mus=0x7f050052;
-    public static final int textView19muss=0x7f050053;
-    public static final int textView19sub=0x7f050054;
-    public static final int textView19subs=0x7f050055;
-    public static final int textView1ats=0x7f050056;
-    public static final int textView1atss=0x7f050057;
-    public static final int textView1mus=0x7f050058;
-    public static final int textView1muss=0x7f050059;
-    public static final int textView1sle=0x7f05005a;
-    public static final int textView1sles=0x7f05005b;
-    public static final int textView1sub=0x7f05005c;
-    public static final int textView1subs=0x7f05005d;
-    public static final int textView1tra=0x7f05005e;
-    public static final int textView1tras=0x7f05005f;
-    public static final int textView204=0x7f050060;
-    public static final int textView20mus=0x7f050061;
-    public static final int textView20sub=0x7f050062;
-    public static final int textView213=0x7f050063;
-    public static final int textView223=0x7f050064;
-    public static final int textView2ats=0x7f050065;
-    public static final int textView2atss=0x7f050066;
-    public static final int textView2mus=0x7f050067;
-    public static final int textView2muss=0x7f050068;
-    public static final int textView2sle=0x7f050069;
-    public static final int textView2sles=0x7f05006a;
-    public static final int textView2sub=0x7f05006b;
-    public static final int textView2subs=0x7f05006c;
-    public static final int textView2tra=0x7f05006d;
-    public static final int textView2tras=0x7f05006e;
-    public static final int textView3ats=0x7f05006f;
-    public static final int textView3mus=0x7f050070;
-    public static final int textView3sle=0x7f050071;
-    public static final int textView3sles=0x7f050072;
-    public static final int textView3sub=0x7f050073;
-    public static final int textView3subs=0x7f050074;
-    public static final int textView3tra=0x7f050075;
-    public static final int textView3tras=0x7f050076;
-    public static final int textView4mus=0x7f050077;
-    public static final int textView4muss=0x7f050078;
-    public static final int textView4sle=0x7f050079;
-    public static final int textView4sles=0x7f05007a;
-    public static final int textView4sub=0x7f05007b;
-    public static final int textView4subs=0x7f05007c;
-    public static final int textView4tra=0x7f05007d;
-    public static final int textView5mus=0x7f05007e;
-    public static final int textView5muss=0x7f05007f;
-    public static final int textView5sle=0x7f050080;
-    public static final int textView5sles=0x7f050081;
-    public static final int textView5sub=0x7f050082;
-    public static final int textView5subs=0x7f050083;
-    public static final int textView6mus=0x7f050084;
-    public static final int textView6muss=0x7f050085;
-    public static final int textView6sle=0x7f050086;
-    public static final int textView6sles=0x7f050087;
-    public static final int textView6sub=0x7f050088;
-    public static final int textView6subs=0x7f050089;
-    public static final int textView7mus=0x7f05008a;
-    public static final int textView7muss=0x7f05008b;
-    public static final int textView7sle=0x7f05008c;
-    public static final int textView7sles=0x7f05008d;
-    public static final int textView7sub=0x7f05008e;
-    public static final int textView7subs=0x7f05008f;
-    public static final int textView8mus=0x7f050090;
-    public static final int textView8muss=0x7f050091;
-    public static final int textView8sle=0x7f050092;
-    public static final int textView8sles=0x7f050093;
-    public static final int textView8sub=0x7f050094;
-    public static final int textView8subs=0x7f050095;
-    public static final int textView9mus=0x7f050096;
-    public static final int textView9muss=0x7f050097;
-    public static final int textView9sle=0x7f050098;
-    public static final int textView9sles=0x7f050099;
-    public static final int textView9sub=0x7f05009a;
-    public static final int textView9subs=0x7f05009b;
-    public static final int textViewmuss=0x7f05009c;
-    public static final int tra_button_afs=0x7f05009d;
-    public static final int tra_button_mus=0x7f05009e;
-    public static final int tra_button_sle=0x7f05009f;
-    public static final int tra_button_sub=0x7f0500a0;
-    public static final int tra_button_tra=0x7f0500a1;
-    public static final int wrap=0x7f0500a2;
+    public static final int textView10mus=0x7f05001d;
+    public static final int textView10muss=0x7f05001e;
+    public static final int textView10sle=0x7f05001f;
+    public static final int textView10sles=0x7f050020;
+    public static final int textView10sub=0x7f050021;
+    public static final int textView10subs=0x7f050022;
+    public static final int textView11mus=0x7f050023;
+    public static final int textView11muss=0x7f050024;
+    public static final int textView11sle=0x7f050025;
+    public static final int textView11sles=0x7f050026;
+    public static final int textView11sub=0x7f050027;
+    public static final int textView11subs=0x7f050028;
+    public static final int textView12mus=0x7f050029;
+    public static final int textView12muss=0x7f05002a;
+    public static final int textView12sle=0x7f05002b;
+    public static final int textView12sub=0x7f05002c;
+    public static final int textView12subs=0x7f05002d;
+    public static final int textView13mus=0x7f05002e;
+    public static final int textView13muss=0x7f05002f;
+    public static final int textView13sub=0x7f050030;
+    public static final int textView13subs=0x7f050031;
+    public static final int textView14mus=0x7f050032;
+    public static final int textView14muss=0x7f050033;
+    public static final int textView14sub=0x7f050034;
+    public static final int textView14subs=0x7f050035;
+    public static final int textView15mus=0x7f050036;
+    public static final int textView15muss=0x7f050037;
+    public static final int textView15sub=0x7f050038;
+    public static final int textView15subs=0x7f050039;
+    public static final int textView16mus=0x7f05003a;
+    public static final int textView16muss=0x7f05003b;
+    public static final int textView16sub=0x7f05003c;
+    public static final int textView16subs=0x7f05003d;
+    public static final int textView17mus=0x7f05003e;
+    public static final int textView17muss=0x7f05003f;
+    public static final int textView17sub=0x7f050040;
+    public static final int textView17subs=0x7f050041;
+    public static final int textView18mus=0x7f050042;
+    public static final int textView18muss=0x7f050043;
+    public static final int textView18sub=0x7f050044;
+    public static final int textView18subs=0x7f050045;
+    public static final int textView19mus=0x7f050046;
+    public static final int textView19muss=0x7f050047;
+    public static final int textView19sub=0x7f050048;
+    public static final int textView19subs=0x7f050049;
+    public static final int textView1ats=0x7f05004a;
+    public static final int textView1atss=0x7f05004b;
+    public static final int textView1mus=0x7f05004c;
+    public static final int textView1muss=0x7f05004d;
+    public static final int textView1sle=0x7f05004e;
+    public static final int textView1sles=0x7f05004f;
+    public static final int textView1sub=0x7f050050;
+    public static final int textView1subs=0x7f050051;
+    public static final int textView1tra=0x7f050052;
+    public static final int textView1tras=0x7f050053;
+    public static final int textView20mus=0x7f050054;
+    public static final int textView20sub=0x7f050055;
+    public static final int textView2ats=0x7f050056;
+    public static final int textView2atss=0x7f050057;
+    public static final int textView2mus=0x7f050058;
+    public static final int textView2muss=0x7f050059;
+    public static final int textView2sle=0x7f05005a;
+    public static final int textView2sles=0x7f05005b;
+    public static final int textView2sub=0x7f05005c;
+    public static final int textView2subs=0x7f05005d;
+    public static final int textView2tra=0x7f05005e;
+    public static final int textView2tras=0x7f05005f;
+    public static final int textView3ats=0x7f050060;
+    public static final int textView3mus=0x7f050061;
+    public static final int textView3sle=0x7f050062;
+    public static final int textView3sles=0x7f050063;
+    public static final int textView3sub=0x7f050064;
+    public static final int textView3subs=0x7f050065;
+    public static final int textView3tra=0x7f050066;
+    public static final int textView3tras=0x7f050067;
+    public static final int textView4mus=0x7f050068;
+    public static final int textView4muss=0x7f050069;
+    public static final int textView4sle=0x7f05006a;
+    public static final int textView4sles=0x7f05006b;
+    public static final int textView4sub=0x7f05006c;
+    public static final int textView4subs=0x7f05006d;
+    public static final int textView4tra=0x7f05006e;
+    public static final int textView5mus=0x7f05006f;
+    public static final int textView5muss=0x7f050070;
+    public static final int textView5sle=0x7f050071;
+    public static final int textView5sles=0x7f050072;
+    public static final int textView5sub=0x7f050073;
+    public static final int textView5subs=0x7f050074;
+    public static final int textView6mus=0x7f050075;
+    public static final int textView6muss=0x7f050076;
+    public static final int textView6sle=0x7f050077;
+    public static final int textView6sles=0x7f050078;
+    public static final int textView6sub=0x7f050079;
+    public static final int textView6subs=0x7f05007a;
+    public static final int textView7mus=0x7f05007b;
+    public static final int textView7muss=0x7f05007c;
+    public static final int textView7sle=0x7f05007d;
+    public static final int textView7sles=0x7f05007e;
+    public static final int textView7sub=0x7f05007f;
+    public static final int textView7subs=0x7f050080;
+    public static final int textView8mus=0x7f050081;
+    public static final int textView8muss=0x7f050082;
+    public static final int textView8sle=0x7f050083;
+    public static final int textView8sles=0x7f050084;
+    public static final int textView8sub=0x7f050085;
+    public static final int textView8subs=0x7f050086;
+    public static final int textView9mus=0x7f050087;
+    public static final int textView9muss=0x7f050088;
+    public static final int textView9sle=0x7f050089;
+    public static final int textView9sles=0x7f05008a;
+    public static final int textView9sub=0x7f05008b;
+    public static final int textView9subs=0x7f05008c;
+    public static final int textViewmuss=0x7f05008d;
+    public static final int tra_button_afs=0x7f05008e;
+    public static final int tra_button_mus=0x7f05008f;
+    public static final int tra_button_sle=0x7f050090;
+    public static final int tra_button_sub=0x7f050091;
+    public static final int tra_button_tra=0x7f050092;
+    public static final int wrap=0x7f050093;
   }
   public static final class layout {
     public static final int activity_ats=0x7f060000;
@@ -669,8 +654,8 @@ public final class R {
      * @see #ButtonBarContainerTheme_metaButtonBarStyle
      */
     public static final int[] ButtonBarContainerTheme={
-        0x7f01002c, 0x7f01002d
-      };
+      0x7f01002c, 0x7f01002d
+    };
     /**
      * <p>This symbol is the offset where the {@link me.creative.azkary.R.attr#metaButtonBarButtonStyle}
      * attribute's value can be found in the {@link #ButtonBarContainerTheme} array.
@@ -803,72 +788,20 @@ public final class R {
      * @see #ConstraintLayout_Layout_layout_optimizationLevel
      */
     public static final int[] ConstraintLayout_Layout={
-        0x010100c4, 0x0101011f, 0x01010120, 0x0101013f, 
-        0x01010140, 0x7f010000, 0x7f010001, 0x7f010002, 
-        0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 
-        0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
-        0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 
-        0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 
-        0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016, 
-        0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a, 
-        0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e, 
-        0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022, 
-        0x7f010023, 0x7f010024, 0x7f010025, 0x7f010026, 
-        0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a, 
-        0x7f01002b
-      };
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#maxHeight}
-     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:maxHeight
-     */
-    public static final int ConstraintLayout_Layout_android_maxHeight=2;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
-     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:maxWidth
-     */
-    public static final int ConstraintLayout_Layout_android_maxWidth=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#minHeight}
-     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:minHeight
-     */
-    public static final int ConstraintLayout_Layout_android_minHeight=4;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#minWidth}
-     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:minWidth
-     */
-    public static final int ConstraintLayout_Layout_android_minWidth=3;
+      0x010100c4, 0x0101011f, 0x01010120, 0x0101013f, 
+      0x01010140, 0x7f010000, 0x7f010001, 0x7f010002, 
+      0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 
+      0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
+      0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 
+      0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 
+      0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016, 
+      0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a, 
+      0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e, 
+      0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022, 
+      0x7f010023, 0x7f010024, 0x7f010025, 0x7f010026, 
+      0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a, 
+      0x7f01002b
+    };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#orientation}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
@@ -886,6 +819,58 @@ public final class R {
      * @attr name android:orientation
      */
     public static final int ConstraintLayout_Layout_android_orientation=0;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:maxWidth
+     */
+    public static final int ConstraintLayout_Layout_android_maxWidth=1;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#maxHeight}
+     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:maxHeight
+     */
+    public static final int ConstraintLayout_Layout_android_maxHeight=2;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#minWidth}
+     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:minWidth
+     */
+    public static final int ConstraintLayout_Layout_android_minWidth=3;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#minHeight}
+     * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:minHeight
+     */
+    public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
      * <p>This symbol is the offset where the {@link me.creative.azkary.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
@@ -1667,181 +1652,23 @@ public final class R {
      * @see #ConstraintSet_layout_goneMarginTop
      */
     public static final int[] ConstraintSet={
-        0x010100c4, 0x010100d0, 0x010100dc, 0x010100f4, 
-        0x010100f5, 0x010100f7, 0x010100f8, 0x010100f9, 
-        0x010100fa, 0x0101031f, 0x01010320, 0x01010321, 
-        0x01010322, 0x01010323, 0x01010324, 0x01010325, 
-        0x01010327, 0x01010328, 0x010103b5, 0x010103b6, 
-        0x010103fa, 0x01010440, 0x7f010001, 0x7f010002, 
-        0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 
-        0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
-        0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 
-        0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 
-        0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016, 
-        0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a, 
-        0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e, 
-        0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022, 
-        0x7f010023, 0x7f010024, 0x7f010025, 0x7f010026, 
-        0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a
-      };
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#alpha}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
-     *
-     * @attr name android:alpha
-     */
-    public static final int ConstraintSet_android_alpha=9;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#elevation}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:elevation
-     */
-    public static final int ConstraintSet_android_elevation=21;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#id}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:id
-     */
-    public static final int ConstraintSet_android_id=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_height}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
-     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
-     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:layout_height
-     */
-    public static final int ConstraintSet_android_layout_height=4;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginBottom}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:layout_marginBottom
-     */
-    public static final int ConstraintSet_android_layout_marginBottom=8;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginEnd}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:layout_marginEnd
-     */
-    public static final int ConstraintSet_android_layout_marginEnd=19;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginLeft}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:layout_marginLeft
-     */
-    public static final int ConstraintSet_android_layout_marginLeft=5;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginRight}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:layout_marginRight
-     */
-    public static final int ConstraintSet_android_layout_marginRight=7;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginStart}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:layout_marginStart
-     */
-    public static final int ConstraintSet_android_layout_marginStart=18;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginTop}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     *
-     * @attr name android:layout_marginTop
-     */
-    public static final int ConstraintSet_android_layout_marginTop=6;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_width}
-     * attribute's value can be found in the {@link #ConstraintSet} array.
-     *
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
-     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
-     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:layout_width
-     */
-    public static final int ConstraintSet_android_layout_width=3;
+      0x010100c4, 0x010100d0, 0x010100dc, 0x010100f4, 
+      0x010100f5, 0x010100f7, 0x010100f8, 0x010100f9, 
+      0x010100fa, 0x0101031f, 0x01010320, 0x01010321, 
+      0x01010322, 0x01010323, 0x01010324, 0x01010325, 
+      0x01010327, 0x01010328, 0x010103b5, 0x010103b6, 
+      0x010103fa, 0x01010440, 0x7f010001, 0x7f010002, 
+      0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 
+      0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 
+      0x7f01000b, 0x7f01000c, 0x7f01000d, 0x7f01000e, 
+      0x7f01000f, 0x7f010010, 0x7f010011, 0x7f010012, 
+      0x7f010013, 0x7f010014, 0x7f010015, 0x7f010016, 
+      0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a, 
+      0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e, 
+      0x7f01001f, 0x7f010020, 0x7f010021, 0x7f010022, 
+      0x7f010023, 0x7f010024, 0x7f010025, 0x7f010026, 
+      0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a
+    };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#orientation}
      * attribute's value can be found in the {@link #ConstraintSet} array.
@@ -1860,41 +1687,142 @@ public final class R {
      */
     public static final int ConstraintSet_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#rotationX}
+     * <p>This symbol is the offset where the {@link android.R.attr#id}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name android:rotationX
+     * @attr name android:id
      */
-    public static final int ConstraintSet_android_rotationX=16;
+    public static final int ConstraintSet_android_id=1;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#rotationY}
+     * <p>This symbol is the offset where the {@link android.R.attr#visibility}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>gone</td><td>2</td><td></td></tr>
+     * <tr><td>invisible</td><td>1</td><td></td></tr>
+     * <tr><td>visible</td><td>0</td><td></td></tr>
+     * </table>
      *
-     * @attr name android:rotationY
+     * @attr name android:visibility
      */
-    public static final int ConstraintSet_android_rotationY=17;
+    public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#scaleX}
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_width}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
-     * <p>May be a floating point value, such as "<code>1.2</code>".
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
+     * </table>
      *
-     * @attr name android:scaleX
+     * @attr name android:layout_width
      */
-    public static final int ConstraintSet_android_scaleX=14;
+    public static final int ConstraintSet_android_layout_width=3;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#scaleY}
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_height}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     * <p>Must be one of the following constant values.</p>
+     * <table>
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <colgroup align="left" />
+     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+     * <tr><td>fill_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>match_parent</td><td>ffffffff</td><td></td></tr>
+     * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
+     * </table>
+     *
+     * @attr name android:layout_height
+     */
+    public static final int ConstraintSet_android_layout_height=4;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginLeft}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:layout_marginLeft
+     */
+    public static final int ConstraintSet_android_layout_marginLeft=5;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginTop}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:layout_marginTop
+     */
+    public static final int ConstraintSet_android_layout_marginTop=6;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginRight}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:layout_marginRight
+     */
+    public static final int ConstraintSet_android_layout_marginRight=7;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginBottom}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:layout_marginBottom
+     */
+    public static final int ConstraintSet_android_layout_marginBottom=8;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#alpha}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name android:scaleY
+     * @attr name android:alpha
      */
-    public static final int ConstraintSet_android_scaleY=15;
+    public static final int ConstraintSet_android_alpha=9;
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#transformPivotX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
@@ -1948,6 +1876,68 @@ public final class R {
      */
     public static final int ConstraintSet_android_translationY=13;
     /**
+     * <p>This symbol is the offset where the {@link android.R.attr#scaleX}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:scaleX
+     */
+    public static final int ConstraintSet_android_scaleX=14;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#scaleY}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:scaleY
+     */
+    public static final int ConstraintSet_android_scaleY=15;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#rotationX}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:rotationX
+     */
+    public static final int ConstraintSet_android_rotationX=16;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#rotationY}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a floating point value, such as "<code>1.2</code>".
+     *
+     * @attr name android:rotationY
+     */
+    public static final int ConstraintSet_android_rotationY=17;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginStart}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:layout_marginStart
+     */
+    public static final int ConstraintSet_android_layout_marginStart=18;
+    /**
+     * <p>This symbol is the offset where the {@link android.R.attr#layout_marginEnd}
+     * attribute's value can be found in the {@link #ConstraintSet} array.
+     *
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     *
+     * @attr name android:layout_marginEnd
+     */
+    public static final int ConstraintSet_android_layout_marginEnd=19;
+    /**
      * <p>This symbol is the offset where the {@link android.R.attr#translationZ}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
@@ -1961,23 +1951,18 @@ public final class R {
      */
     public static final int ConstraintSet_android_translationZ=20;
     /**
-     * <p>This symbol is the offset where the {@link android.R.attr#visibility}
+     * <p>This symbol is the offset where the {@link android.R.attr#elevation}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>gone</td><td>2</td><td></td></tr>
-     * <tr><td>invisible</td><td>1</td><td></td></tr>
-     * <tr><td>visible</td><td>0</td><td></td></tr>
-     * </table>
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
      *
-     * @attr name android:visibility
+     * @attr name android:elevation
      */
-    public static final int ConstraintSet_android_visibility=2;
+    public static final int ConstraintSet_android_elevation=21;
     /**
      * <p>This symbol is the offset where the {@link me.creative.azkary.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
@@ -2602,8 +2587,8 @@ public final class R {
      * @see #LinearConstraintLayout_android_orientation
      */
     public static final int[] LinearConstraintLayout={
-        0x010100c4
-      };
+      0x010100c4
+    };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#orientation}
      * attribute's value can be found in the {@link #LinearConstraintLayout} array.
